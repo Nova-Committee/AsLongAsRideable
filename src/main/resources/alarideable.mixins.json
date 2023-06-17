@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "committee.nova.alarideable.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinSkeletonHorse",
+    "MixinZombieHorse"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
