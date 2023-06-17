@@ -1,0 +1,9 @@
+modLoader = "lowcodefml"
+loaderVersion = "[38,)"
+license = "GNU AGPL 3.0"
+[[mods]]
+modId = "alarideable"
+version = "${file.jarVersion}"
+displayName = "AsLongAsRideable"
+authors = "Tapio"
+description = "Make skeleton horse / zombie horse defaultly tameable & rideable"
